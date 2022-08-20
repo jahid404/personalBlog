@@ -57,7 +57,7 @@
 	}
 	
 	.branding h1{
-		font-size:2rem;
+		font-size:2.5rem;
 	}
 	
 	nav{
@@ -100,11 +100,12 @@
 		position:absolute;
 		transform:translateX(-50%);
 		bottom:-40px;
+		align-items:center;
 	}
 	.subtitle h2{
 		display:inline-block;
-		padding:10px 45px;
-		font-size:3.5rem;
+		padding:25px 30px;
+		font-size:3rem;
 	}
 	
 	main{
